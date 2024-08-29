@@ -389,12 +389,31 @@
 
 - [Ordered Enchanting Demo Wiki](https://github.com/hqqaazz/ordered-Enchanting-Demo/wiki/)
 - [Ordered Enchanting Demo Repository](https://github.com/hqqaazz/ordered-Enchanting-Demo)
+- [ShadowDemon](https://shadowdemon.carrd.co)
+
+## Note on Pen Name
+
+Please be advised that "Shadow Demon" is a pen name used for the purposes of this document. The use of this pseudonymous identity is a choice of the creator to maintain anonymity and is not indicative of any legal entity or corporation. 
+
+All content provided under the name "Shadow Demon" is created and managed by the individual behind this pen name. This includes the strategies, setups, and information shared in the **Cypher Setup Collection**. The use of a pen name does not affect the authenticity, accuracy, or validity of the content or the licensing terms associated with this document.
+
+For any inquiries, clarifications, or permissions beyond the scope of this license, please use the contact details provided. Despite the use of a pen name, all rights and responsibilities associated with the content and its licensing are fully respected and upheld.
+
+## Contact Information
+
+For questions, permissions beyond the scope of this license, or further clarifications, please contact:
+
+- **Creator Of This Document**: Shadow Demon
+- **Contact Email**: [shadowdemoninc@gmail.com]
+- **Socials**: [ShadowDemon.carrd.co](https://shadowdemon.carrd.co)
+- **Original Creator**: - [hqqaazz](https://github.com/hqqaazz)
 
 ## License
 
 ### MIT License
 
-Copyright (c) 2020 hqqaazz
+Copyright (c) 2024 ShadowDemon
+[ShadowDemon](https://shadowdemon.carrd.co)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

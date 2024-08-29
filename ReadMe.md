@@ -1,4 +1,4 @@
-##Optimal enchantment order[Up to 1.21]
+##Optimal enchantment order[Up to 1.21]##
 
 All order stated below is based on least penalty strategy for best higher version compatibility(e.g. new enchantments added), as enchanting attempt is limited.
 If high version compatibility, or more trivially, renaming cost(renaming before enchanting is recommended), is not important, the enchanting cost can be even lower in some cases.
